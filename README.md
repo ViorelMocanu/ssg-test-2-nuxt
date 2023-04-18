@@ -2,6 +2,8 @@
 
 A test to see which of the Static Site Generators I should use for my personal website and blog.
 
+Tutorial at: <https://nuxt.com/docs/getting-started/installation> and <https://content.nuxtjs.org/guide/writing/document-driven/> and <https://www.vuemastery.com/courses/build-a-blog-nuxt3-content/>
+
 # Content v2 Minimal Starter
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
