@@ -10,6 +10,6 @@
     "@nuxt/content": "^2.12.0",
     "@nuxtjs/tailwindcss": "^6.11.4",
     "consola": "^3.2.3",
-    "nuxt": "^3.10.3"
+    "nuxt": "^3.11.2"
   }
 }
