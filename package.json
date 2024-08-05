@@ -10,7 +10,7 @@
 		"@nuxt/content": "^2.13.1",
 		"@nuxtjs/tailwindcss": "^6.12.1",
 		"consola": "^3.2.3",
-		"nuxt": "^3.12.3",
+		"nuxt": "^3.12.4",
 		"semver": "^7.6.3"
 	}
 }
